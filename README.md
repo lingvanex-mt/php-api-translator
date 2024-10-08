@@ -59,7 +59,7 @@ Options:
 * `code`: the language code in the format “language code_code of the country”, which is used to display the names of the languages. The language code is represented only in lowercase letters, the country code only in uppercase letters (example en_GB, es_ES, ru_RU etc). If this option is not present, then English is used by default.
 
 
-# Translate Python Text
+# Translate PHP Text
 This POST method translates text and HTML single string or arrays with the authentication key. Also it performs transliteration, language auto detection.
 
 ```
