@@ -1,0 +1,8 @@
+{
+    "name": "lingvanex",
+    "description": "Lingvanex Translator, a cutting-edge cloud-based neural machine translation service",
+    "require": {
+        "php": ">=8.2",
+        "another-vendor/package": "1.*"
+    }
+}
