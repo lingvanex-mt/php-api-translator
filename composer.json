@@ -1,5 +1,5 @@
 {
-    "name": "lingvanex/translator",
+    "name": "lingvanex/php-translator-api",
     "description": "Lingvanex Translator, a cutting-edge cloud-based neural machine translation service",
     "require": {
         "php": ">=8.2",
