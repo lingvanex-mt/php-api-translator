@@ -13,15 +13,15 @@ Before using the API you need to create the [account](https://lingvanex.com/regi
 
 
 # Installation
-You can install the library with PyPI using pip:
+You can install the library using this command:
 
 ```
-$command = 'pip install lingvanex'
+composer require lingvanex/php-translator-api
 ```
 
 
 # Requirements
-* PHP version >= 3.8
+* PHP version >= 8.2
 
 
 # Getting the list of languages
