@@ -1,8 +1,20 @@
 {
-    "name": "lingvanex/php-translator-api",
+    "name": "lingva/php-translator-api",
     "description": "Lingvanex Translator, a cutting-edge cloud-based neural machine translation service",
-    "require": {
-        "php": ">=8.3",
-        "another-vendor/package": "1.*"
-    }
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lingvanex\\PhpTranslatorApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Olga1998-power",
+            "email": "olgavelikaa915@gmail.com"
+        }
+    ],
+    "require": {"lingvanex/php-translator-api":"1.0"},
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
