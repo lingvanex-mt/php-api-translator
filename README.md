@@ -16,7 +16,7 @@ Before using the API you need to create the [account](https://lingvanex.com/regi
 You can install the library using this command:
 
 ```
-composer require lingva/php-translator-api
+composer require lingvanex/php-translator-api
 ```
 
 
