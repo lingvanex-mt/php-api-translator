@@ -14,7 +14,7 @@
             "email": "olgavelikaa915@gmail.com"
         }
     ],
-    "require": {"lingvanex/php-translator-api":"1.0"},
+    "require": {"lingva/php-translator-api":"1.0"},
     "minimum-stability": "dev",
     "prefer-stable": true
 }
